@@ -14,4 +14,6 @@ So
 I have focused Cyber security and i will continue.
 
 
- <a href="https://www.linkedin.com/in/muzaffersenkall/">![linkedin](https://user-images.githubusercontent.com/39282226/168906262-95d48158-f00f-4bca-aa08-d53ff7e125a9.png) </a> <a href="https://www.instagram.com/muzaffersenkall/?hl=tr">![instagram](https://user-images.githubusercontent.com/39282226/168904948-ee9e2627-9f75-4374-8fe3-fab1adf60b05.png) </a>
+ <a href="https://www.linkedin.com/in/muzaffersenkall/">![linkedin](https://user-images.githubusercontent.com/39282226/168908344-d1a192f0-13b2-4351-b8c7-192da9f0881a.png) </a> <a href="https://www.instagram.com/muzaffersenkall/?hl=tr">![instagram](https://user-images.githubusercontent.com/39282226/168908434-72af9d97-96d4-47a5-ba68-a268b69a4ca3.png) </a>
+
+

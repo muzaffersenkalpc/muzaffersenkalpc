@@ -3,7 +3,7 @@ Hi, I'm Muzaffer. You can say briefly 'Muzo' 🙃
 I am working on Cyber Security. Pentesting, Bug bounty, XSS, Sql Inj & etc. And i really focused CSec. I am skilled PHP,Javascript,HTML&Css,C#,C,Python.
 
 
-Also i am skilled Volleyball and FPS video games :video_game:
+Also i am skilled  FPS video games :video_game:
 
 
 I really lost in details sometimes. When i realize that i said 'i have to know Cyber Security. Because The Devils in the details.👀'.
